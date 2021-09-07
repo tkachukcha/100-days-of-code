@@ -12,15 +12,16 @@
 ##### Project 1: Rock Scissors Paper Lizard Spock
 
 **Today's Progress**: I started this project month ago, but worked on it for only 4 hours, after I had working project that I had to deal with, so I postponed working on this project. 
-Therefore, today I checked my code and fount out that I can make it better. 
+Therefore, today I checked my code and found out that I can make it better. 
 So I added few functions to shorten code, added new Class, and at the moment trying to figure out how to compare two choices of player and computer. 
 
 Things learned: 
 - how to pass function name as a string
 - getting used to OOP
+- mergin stash with main branch in git
 
 **Thoughts:** I sat, started to code, and BAM, two and half hours gone in a click. Oh how I love to code!
 
-**Link to work:** [Calculator App](https://github.com/tkachukcha/rock-lizard-spock)
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
 
 

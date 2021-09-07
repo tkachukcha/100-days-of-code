@@ -1,15 +1,4 @@
-# 100 Days Of Code - Log
-
-### Day 0: September 6, 2021
-
-**Today's Progress**: Planned which projects gonna work on at first
-
-Projects: 
-1. Rock Scissors Paper Lizard Spock Game
-2. JS Clock
-3. ToDo List
-4. JS side Menu
-5. Tabs
+# 1/100 Days Of Code - Log
 
 ### Day 1: September 7, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock
@@ -26,5 +15,16 @@ Things learned:
 **Thoughts:** I sat, started to code, and BAM, two and half hours gone in a click. Oh how I love to code!
 
 **Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
+
+### Day 0: September 6, 2021
+
+**Today's Progress**: Planned which projects gonna work on at first
+
+Projects: 
+1. Rock Scissors Paper Lizard Spock Game
+2. JS Clock
+3. ToDo List
+4. JS side Menu
+5. Tabs
 
 

@@ -4,9 +4,12 @@
 
 **Today's Progress**: Planned which projects gonna work on at first
 
-**Thoughts:**
-
-**Link to work:** [Calculator App](http://www.example.com)
+Projects: 
+1. Rock Scissors Paper Lizard Spock Game
+2. JS Clock
+3. ToDo List
+4. JS side Menu
+5. Tabs
 
 ### Day 1: September 7, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

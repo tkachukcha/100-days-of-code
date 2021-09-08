@@ -1,4 +1,16 @@
-# 1/100 Days Of Code - Log
+# 2/100 Days Of Code - Log
+
+### Day 2: September 8, 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: Still trying to figure out game logic. Tested few things, added few useful functions/
+
+Things learned: 
+You cannot use object property "name" to find index of that object with the same name. This.name not working. But this - does!
+
+**Thoughts:** To solve a problem sometimes you gotta stop trying to do this and do something different
+
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
 
 ### Day 1: September 7, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

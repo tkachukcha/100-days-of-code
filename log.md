@@ -1,4 +1,18 @@
-# 2/100 Days Of Code - Log
+# 3/100 Days Of Code - Log
+
+### Day 3: September 9, 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: Now game is playable, although at the moment winner is announced in console. Added graphics of computer "deciding" his choice. 
+
+Things learned: 
+- Used timeouts functions by myself for the first time. Maybe can rewrite this part of code to use promises
+- Found out that you cannot use array.include method to check if there's array or object inside of main array
+
+**Thoughts:** Looks like that  my unconsious mind has been working a lot since yesterday to figure out game logic, because the solution came to my mind right after I started to code today.
+
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
+
 
 ### Day 2: September 8, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

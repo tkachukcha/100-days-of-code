@@ -3,12 +3,16 @@
 ### Day 4: September 10, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock
 
-**Today's Progress**: Added computer animation and simple text with result. Still have some bugs, like everything brakes down if you click figure two times.
+**Today's Progress**: 
+- Added computer animation and simple text with result. Still have some bugs, like everything brakes down if you click figure two times.
+- Cleaned code a little bit.
 
-Things learned: 
+**Things learned**: 
 - Learned @keyframes css animations. Simple and fun
 
-**Thoughts:** Coding part was easy and fast, but GUI will take some time for sure
+**Thoughts:** 
+- Coding part was easy and fast, but GUI will take some time for sure.
+- Understood, that even such a simple app can be improved, you could add new functionality, write better, more effective code, tune GUI and so on. 
 
 **Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
 

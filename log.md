@@ -1,5 +1,17 @@
 # 3/100 Days Of Code - Log
 
+### Day 4: September 10, 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: Added computer animation and simple text with result. Still have some bugs, like everything brakes down if you click figure two times.
+
+Things learned: 
+- Learned @keyframes css animations. Simple and fun
+
+**Thoughts:** Coding part was easy and fast, but GUI will take some time for sure
+
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
+
 ### Day 3: September 9, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock
 

@@ -1,4 +1,4 @@
-# 3/100 Days Of Code - Log
+# 4/100 Days Of Code - Log
 
 ### Day 4: September 10, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

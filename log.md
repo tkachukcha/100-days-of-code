@@ -1,11 +1,42 @@
-# 4/100 Days Of Code - Log
+# 6/100 Days Of Code - Log
+
+### Day 6: September 12 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: 
+- Removed arrow creating functions and instead added arrow class
+- Removed separate helpers
+
+**Things learned**: 
+- Static class methods
+
+**Thoughts:** 
+- How to figure out when project is ready?
+
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
+
+
+### Day 5: September 11, 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: 
+- Added border color changes on win or lose
+- Cleaned code a little bit.
+
+**Things learned**: 
+- figuring out "this" context little bit more
+
+**Thoughts:** 
+- Tomorrow is a trip day, no chance to code, therefore done today 1 hour more.
+
+**Link to work:** [Rock Scissors Paper Lizard Spock Game](https://github.com/tkachukcha/rock-lizard-spock)
+
 
 ### Day 4: September 10, 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock
 
 **Today's Progress**: 
 - Added computer animation and simple text with result. Still have some bugs, like everything brakes down if you click figure two times.
-- Cleaned code a little bit.
 
 **Things learned**: 
 - Learned @keyframes css animations. Simple and fun

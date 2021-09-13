@@ -1,4 +1,22 @@
-# 6/100 Days Of Code - Log
+# 7/100 Days Of Code - Log
+
+### Day 7: September 13 2021
+##### Project 1: Rock Scissors Paper Lizard Spock
+
+**Today's Progress**: 
+- Added GUI for scores, added reset scores button
+- Removed bug with double clicking
+- Game is finished now
+
+**Things learned**: 
+- One of the way to restrict clicking second time on a button
+
+**Thoughts:** 
+- Wondering what will I say looking at this code in one year from now?
+
+**Link to game:** [Rock Scissors Paper Lizard Spock Game](http://dan-tkachuk.com/RSPLS/)
+**Link to repo:** [Rock Scissors Paper Lizard Spock Repo](https://github.com/tkachukcha/rock-lizard-spock)
+
 
 ### Day 6: September 12 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

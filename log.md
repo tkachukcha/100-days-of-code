@@ -9,7 +9,7 @@
 - Game is finished now
 
 **Things learned**: 
-- One of the way to restrict clicking second time on a button
+- One of the ways to restrict clicking button many times
 
 **Thoughts:** 
 - Wondering what will I say looking at this code in one year from now?

@@ -10,6 +10,7 @@
 
 **Things learned**: 
 - One of the ways to restrict clicking button many times
+- How to use .gitgnore file
 
 **Thoughts:** 
 - Wondering what will I say looking at this code in one year from now?

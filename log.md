@@ -1,4 +1,21 @@
-# 7/100 Days Of Code - Log
+# 8/100 Days Of Code - Log
+
+### Day 8: September 14 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Added some style (need to improve)
+- Added basic functionality - clocks show local time now
+
+**Things learned**: 
+- Setting up and basic use of TailwindCSS
+- Working with Date object
+
+**Thoughts:** 
+- Wish I had design skill... 
+
+**Link to repo:** [JS Clock](https://github.com/tkachukcha/JS-Clock)
+
 
 ### Day 7: September 13 2021
 ##### Project 1: Rock Scissors Paper Lizard Spock

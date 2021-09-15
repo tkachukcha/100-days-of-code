@@ -1,4 +1,16 @@
-# 8/100 Days Of Code - Log
+# 9/100 Days Of Code - Log
+
+### Day 9: September 15 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Refuse to use Tailwind, seems to be confusing. Cannot understand why it's better than pure CSS. HTML looks messy and with few similar elements it takes much more time to customize same looking elements. Glad that I have only 3 of them
+- Spent half an hour to trying stylize my elements with tailwind, but after I erased everything and rewrote styles with pure css. 
+
+**Things learned**: 
+- Tailwind is not easy and should be used for particular projects. Or is there anything that I'm missing?
+
+**Link to repo:** [JS Clock](https://github.com/tkachukcha/JS-Clock)
 
 ### Day 8: September 14 2021
 ##### Project 2: JS Clock

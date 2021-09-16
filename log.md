@@ -1,4 +1,16 @@
-# 9/100 Days Of Code - Log
+# 10/100 Days Of Code - Log
+
+### Day 10: September 16 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Yesterday later in the evening I added dark mode button, today I added animation for it and functionality. 
+- Also started implementing switching between Am/Pm and 24H modes
+
+**Things learned**: 
+- Learned how to make switch button using css and ::after pseudo-element
+
+**Link to repo:** [JS Clock](https://github.com/tkachukcha/JS-Clock)
 
 ### Day 9: September 15 2021
 ##### Project 2: JS Clock

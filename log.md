@@ -1,4 +1,18 @@
-# 10/100 Days Of Code - Log
+# 11/100 Days Of Code - Log
+
+### Day 11: September 17 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- am/pm mode added
+- User preferences of dark and am/pm modes are now stored in localStorage and dont reset on page reload
+
+**Things learned**: 
+- Local storage usage
+
+**Thoughts**: Finding something new everyday is so much fun. Love this challenge!
+
+**Link to repo:** [JS Clock](https://github.com/tkachukcha/JS-Clock)
 
 ### Day 10: September 16 2021
 ##### Project 2: JS Clock

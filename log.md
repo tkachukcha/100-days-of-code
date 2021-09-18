@@ -1,4 +1,17 @@
-# 11/100 Days Of Code - Log
+# 12/100 Days Of Code - Log
+
+### Day 12: September 18 2021
+##### Project 2: JS Clock
+
+Cheat day. Was away from home and my laptop so couldnt actually code, but I installed programming keyboard and JS code editor (SPCK - which is really nice actually, you can even use git there). From my phone I played little bit with regular expressions - yesterday watched tutorial and today tried different variations and methods. 
+
+**Today's Progress**: 
+- No progress in project. But tomorrow will give more focus and time to my project! Wanna make analog clock!
+
+**Things learned**: 
+- Started understanding regular expressions
+
+**Thoughts**: Gotta sleep more not to oversleep mornings to code... 
 
 ### Day 11: September 17 2021
 ##### Project 2: JS Clock

@@ -4,11 +4,12 @@
 ##### Project 2: JS Clock
 
 **Today's Progress**: 
-- Made code nice and clean. Added few functions to shorten code.
+- Made code nice and clean. Added few functions to shorten code. Changed names of functions to follow JS naming convention
 - Started making analog clock
 
 **Things learned**: 
 - How to organize code
+- Relearned naming conventions for functions
 
 **Thoughts**: Now I can see that code is really a poetry. Mine maybe not as good as can be, but I'm trying hard :)
 

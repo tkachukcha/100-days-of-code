@@ -1,4 +1,17 @@
-# 12/100 Days Of Code - Log
+# 13/100 Days Of Code - Log
+
+### Day 13: September 19 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Made code nice and clean. Added few functions to shorten code.
+- Started making analog clock
+
+**Things learned**: 
+- How to organize code
+
+**Thoughts**: Now I can see that code is really a poetry. Mine maybe not as good as can be, but I'm trying hard :)
+
 
 ### Day 12: September 18 2021
 ##### Project 2: JS Clock

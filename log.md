@@ -6,13 +6,17 @@
 **Today's Progress**: 
 - Made code nice and clean. Added few functions to shorten code. Changed names of functions to follow JS naming convention
 - Started making analog clock
+- Added dynamically generated seconds marks on clock face
+- Seconds arrow is alive!
 
 **Things learned**: 
 - How to organize code
 - Relearned naming conventions for functions
+- Using several transform properties at once
 
-**Thoughts**: Now I can see that code is really a poetry. Mine maybe not as good as can be, but I'm trying hard :)
-
+**Thoughts**: 
+- Now I can see that code is really a poetry. Mine maybe not as good as can be, but I'm trying hard :)
+- More I code, more gettin into it. S O  M U C H  F U N !!!
 
 ### Day 12: September 18 2021
 ##### Project 2: JS Clock

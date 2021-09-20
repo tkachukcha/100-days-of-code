@@ -1,4 +1,13 @@
-# 13/100 Days Of Code - Log
+# 14/100 Days Of Code - Log
+
+### Day 14: September 20 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Analog clock fully functional. Just need to add some styling
+
+**Things learned**: 
+- GitHub Pages - it's so amazing and easy!
 
 ### Day 13: September 19 2021
 ##### Project 2: JS Clock

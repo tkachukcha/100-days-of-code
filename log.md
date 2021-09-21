@@ -1,4 +1,14 @@
-# 14/100 Days Of Code - Log
+# 15/100 Days Of Code - Log
+
+### Day 15: September 20 2021
+##### Project 2: JS Clock
+
+**Today's Progress**: 
+- Changed style of digital clock
+
+**Thoughts**: Styling takes too much time, I'd better focus on coding JS 
+
+**Link to project:** [JS Clock](https://tkachukcha.github.io/JS-Clock/)
 
 ### Day 14: September 20 2021
 ##### Project 2: JS Clock

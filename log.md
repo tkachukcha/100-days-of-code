@@ -1,6 +1,23 @@
-# 15/100 Days Of Code - Log
+# 16/100 Days Of Code - Log
 
-### Day 15: September 20 2021
+### Day 16: September 22 2021
+##### Project 3: Web Scraper
+
+Started new project - web scraper - which is completely new for me. I didnt know anything about scrapers before except what you can use them for. 
+I wished long time ago to code my own web scraper which would extract surf forecast data to markdown file. And I'm so exciting that I extracted my first data!!! 
+
+**Today's Progress**: 
+- Done my first data extraction from website!
+- Exctracting data to an object and looking through it in console. But it's so amazing!
+
+**Things learned**: 
+- Getting my first try with Node.Js, as well as cheerio and axios packages
+
+**Thoughts**: This is so exciting!!!
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
+
+### Day 15: September 21 2021
 ##### Project 2: JS Clock
 
 **Today's Progress**: 
@@ -220,8 +237,7 @@ Things learned:
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game
 2. JS Clock
-3. ToDo List
-4. JS side Menu
-5. Tabs
+3. Web Scraper
+
 
 

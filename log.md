@@ -1,5 +1,15 @@
 # 16/100 Days Of Code - Log
 
+### Day 17: September 23 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Not much, trying to figure out how to work with cheerio and axios packages. Have been reading references and playing with code a bit
+
+**Things learned**: 
+- How cheerio can be used
+- Get method of axios
+
 ### Day 16: September 22 2021
 ##### Project 3: Web Scraper
 

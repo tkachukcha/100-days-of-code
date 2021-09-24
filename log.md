@@ -1,4 +1,16 @@
-# 16/100 Days Of Code - Log
+# 18/100 Days Of Code - Log
+
+### Day 18: September 24 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Today I was trying to figure out the structure on needed output of scraper and started to make it in the object I'm getting off the page. Still not much of a progress
+
+**Things learned**: 
+- string.split method 
+- the use of regular expression with split method
+
+**Thoughts**: Getting used to working with data, bot with visual objects, as I'm used to
 
 ### Day 17: September 23 2021
 ##### Project 3: Surf Forecast Data Scraper

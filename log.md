@@ -1,4 +1,18 @@
-# 18/100 Days Of Code - Log
+# 19/100 Days Of Code - Log
+
+### Day 19: September 25 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+My friend check my code and did everything in a proper way through using nodejs server and pug processor. My progress is that I made his code work on my system with typescript and other packages. And then I checked his code trying to understand, how it works. Seems okay, but still so much to learn. My had is gonna blow up.
+
+**Things learned**: 
+- Typescript configuration and basics
+- Pug preprocessor. First glance
+- Express JS first glance
+- Starting my own nodejs server
+
+**Thoughts**: Harder than I thought. But there is nothing that I cannot learn.
 
 ### Day 18: September 24 2021
 ##### Project 3: Surf Forecast Data Scraper

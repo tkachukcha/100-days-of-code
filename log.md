@@ -1,4 +1,13 @@
-# 19/100 Days Of Code - Log
+# 20/100 Days Of Code - Log
+
+### Day 20: September 26 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Went back to my code. Structuring output and figuring out how to get the data off the targeted website. I can foresee a lot of problems to solve in the closest future...
+
+**Things learned**: 
+Gotta be well rested to code properly
 
 ### Day 19: September 25 2021
 ##### Project 3: Surf Forecast Data Scraper

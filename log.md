@@ -1,4 +1,19 @@
-# 20/100 Days Of Code - Log
+# 21/100 Days Of Code - Log
+
+### Day 21: September 27 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Went back to my code as with my friends code I was only reading documentation, but not actually coding. 
+I extracted data from get request into JSON file and read it outside of the promise so now I can use this data to actually post it on web page by myself. 
+
+**Things learned**: 
+- Read and write JSON file with data. Using it in project. 
+
+**Thoughts**:
+- The main problem that this project take too long (apart I'm not working for more than 1 hour a day on it) is difficult structure of targeted web page... it's actually a pain the ass to get needed data. 
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 20: September 26 2021
 ##### Project 3: Surf Forecast Data Scraper
@@ -22,6 +37,7 @@ My friend check my code and did everything in a proper way through using nodejs 
 - Starting my own nodejs server
 
 **Thoughts**: Harder than I thought. But there is nothing that I cannot learn.
+
 
 ### Day 18: September 24 2021
 ##### Project 3: Surf Forecast Data Scraper

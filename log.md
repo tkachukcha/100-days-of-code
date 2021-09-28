@@ -1,4 +1,15 @@
-# 21/100 Days Of Code - Log
+# 22/100 Days Of Code - Log
+
+### Day 22: September 28 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Found the simplest way to work with data table on targeted website and as a result - I got data about all three swells. Now I can move on to get data for tides and to get data from other website.
+
+**Things learned**: 
+- Gotta find the easiest workaround - it's the best most of the time 
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 21: September 27 2021
 ##### Project 3: Surf Forecast Data Scraper

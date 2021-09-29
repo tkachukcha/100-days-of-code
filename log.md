@@ -1,4 +1,16 @@
-# 22/100 Days Of Code - Log
+# 23/100 Days Of Code - Log
+
+### Day 23: September 29 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Added tides and bit of formatting to console output. Finished with one website, started figuring out next one.
+
+**Things learned**: 
+- How to use "\n" symbol
+- PUsing variable as a key of object
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 22: September 28 2021
 ##### Project 3: Surf Forecast Data Scraper

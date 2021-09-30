@@ -1,4 +1,15 @@
-# 23/100 Days Of Code - Log
+# 24/100 Days Of Code - Log
+
+### Day 24: September 29 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Added energy and started getting swell foreast from second site. And it's so much easier that previous!
+
+**Things learned**: 
+- Getting element's data attribute value using cheerio
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 23: September 29 2021
 ##### Project 3: Surf Forecast Data Scraper

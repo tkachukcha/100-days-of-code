@@ -1,4 +1,15 @@
-# 24/100 Days Of Code - Log
+# 25/100 Days Of Code - Log
+
+### Day 25: September 29 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Been figuring out how to delete null element out of array with objects and changing angle property inside the swell objects. Started to restructure outputted object in order data from both websites would be uniform. 
+
+**Things learned**: 
+- Splice method
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 24: September 29 2021
 ##### Project 3: Surf Forecast Data Scraper

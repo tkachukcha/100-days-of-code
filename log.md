@@ -1,6 +1,18 @@
-# 25/100 Days Of Code - Log
+# 26/100 Days Of Code - Log
 
-### Day 25: September 29 2021
+### Day 26: October 2 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Now data is for tomorrow. And I formatted output from Surf Forecast. Also got angle and letters for MSW swell directions out of single string. Code is a real mess, needs cleaning. 
+
+**Things learned**: 
+- Slice method
+- Practical use of regex
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
+
+### Day 25: October 1 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 
@@ -11,7 +23,7 @@ Been figuring out how to delete null element out of array with objects and chang
 
 **Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
-### Day 24: September 29 2021
+### Day 24: September 30 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 

@@ -1,4 +1,15 @@
-# 26/100 Days Of Code - Log
+# 27/100 Days Of Code - Log
+
+### Day 27: October 3 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Shortened code a bit, changed structure of objects, went to third site and found out that I cannot extract data off there somehow
+
+**Things learned**: 
+- There is some way to hide a code from cheerio
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 26: October 2 2021
 ##### Project 3: Surf Forecast Data Scraper

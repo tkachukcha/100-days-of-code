@@ -1,4 +1,14 @@
-# 27/100 Days Of Code - Log
+# 28/100 Days Of Code - Log
+
+### Day 28: October 4 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Short session as tomorrow is a long day. 
+
+**Things learned**: 
+- Basics of PUG
+
 
 ### Day 27: October 3 2021
 ##### Project 3: Surf Forecast Data Scraper

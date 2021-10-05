@@ -1,4 +1,16 @@
-# 28/100 Days Of Code - Log
+# 29/100 Days Of Code - Log
+
+### Day 29: October 3 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Okay, coming to an almost end, just need to output date to MD file
+
+**Things learned**: 
+- FS module writeStream
+- MarkDown syntax basics
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 28: October 4 2021
 ##### Project 3: Surf Forecast Data Scraper
@@ -8,7 +20,6 @@ Short session as tomorrow is a long day.
 
 **Things learned**: 
 - Basics of PUG
-
 
 ### Day 27: October 3 2021
 ##### Project 3: Surf Forecast Data Scraper

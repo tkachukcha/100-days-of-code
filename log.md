@@ -1,6 +1,18 @@
-# 29/100 Days Of Code - Log
+# 30/100 Days Of Code - Log
 
-### Day 29: October 3 2021
+### Day 30: October 6 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Fuck yes. I've made it! Now when I start script new data is written to markdown file in nice formatted way. If there were no problem with third site scraping, project would have been finished by now. But, I still has to figure out how to extract data from third site. And also I need to write surf spot name
+
+**Things learned**: 
+- Appending new data to start of file
+- Markdown (GFM) tables syntax
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
+
+### Day 29: October 5 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 

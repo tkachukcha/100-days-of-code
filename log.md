@@ -1,4 +1,15 @@
-# 30/100 Days Of Code - Log
+# 31/100 Days Of Code - Log
+
+### Day 31: October 7 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Started figuring out how to get data off the third website. For that I use puppeeter package which runs headless browser to get the info.
+
+**Things learned**: 
+- Basics of Puppeteer tool
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 30: October 6 2021
 ##### Project 3: Surf Forecast Data Scraper

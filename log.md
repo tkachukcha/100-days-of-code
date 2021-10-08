@@ -1,5 +1,17 @@
 # 31/100 Days Of Code - Log
 
+### Day 32: October 8 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Playing with array I get off third site and using regexps to get needed data. Working little bit slow at the moment. 
+
+**Things learned**: 
+- New regexp tokens
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
+
+
 ### Day 31: October 7 2021
 ##### Project 3: Surf Forecast Data Scraper
 

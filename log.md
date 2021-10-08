@@ -1,4 +1,4 @@
-# 31/100 Days Of Code - Log
+# 32/100 Days Of Code - Log
 
 ### Day 32: October 8 2021
 ##### Project 3: Surf Forecast Data Scraper

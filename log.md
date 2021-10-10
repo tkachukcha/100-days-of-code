@@ -1,4 +1,15 @@
-# 32/100 Days Of Code - Log
+# 33/100 Days Of Code - Log
+
+### Day 33: October 8 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Got almost all the data I need using puppeteer package. It was so easy that I even thought that it would be better to rewrite whole project with just puppeeter without cheerio or axios. Why would use 3 package if I could just use one? 
+
+**Things learned**: 
+- Getting used to slice method
+
+**Link to repo:** [Web scraper](https://github.com/tkachukcha/MSW_WebScraper)
 
 ### Day 32: October 8 2021
 ##### Project 3: Surf Forecast Data Scraper

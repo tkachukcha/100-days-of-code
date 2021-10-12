@@ -1,5 +1,15 @@
 # 34/100 Days Of Code - Log
 
+### Day 35: October 12 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Figured out how to render htmls files using pug templates. Now my data is in HTML
+
+**Things learned**: 
+- Pug basics
+- Using markdown-it filter
+
 ### Day 34: October 11 2021
 ##### Project 3: Surf Forecast Data Scraper
 

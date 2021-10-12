@@ -1,4 +1,4 @@
-# 34/100 Days Of Code - Log
+# 35/100 Days Of Code - Log
 
 ### Day 35: October 12 2021
 ##### Project 3: Surf Forecast Data Scraper

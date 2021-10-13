@@ -1,6 +1,6 @@
 # 36/100 Days Of Code - Log
 
-### Day 36: October 12 2021
+### Day 36: October 13 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 

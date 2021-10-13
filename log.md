@@ -1,4 +1,14 @@
-# 35/100 Days Of Code - Log
+# 36/100 Days Of Code - Log
+
+### Day 36: October 12 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Outputting data to html. Learning how to work with pug and bootstrap
+
+**Things learned**: 
+- Pug basics
+- Bootstrap basics
 
 ### Day 35: October 12 2021
 ##### Project 3: Surf Forecast Data Scraper

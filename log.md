@@ -1,4 +1,14 @@
-# 36/100 Days Of Code - Log
+# 37/100 Days Of Code - Log
+
+### Day 37: October 14 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Formatting html output. Getting used to pug iterations and mixins
+
+**Things learned**: 
+- Pug interations
+- Pug mixins
 
 ### Day 36: October 13 2021
 ##### Project 3: Surf Forecast Data Scraper

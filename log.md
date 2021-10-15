@@ -1,4 +1,10 @@
-# 37/100 Days Of Code - Log
+# 38/100 Days Of Code - Log
+
+### Day 38: October 15 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Started coding after a hard day's night, so I wasnt able to do anything. My head is not working. Will continue tomorrow
 
 ### Day 37: October 14 2021
 ##### Project 3: Surf Forecast Data Scraper

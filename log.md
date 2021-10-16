@@ -1,4 +1,13 @@
-# 38/100 Days Of Code - Log
+# 39/100 Days Of Code - Log
+
+### Day 39: October 16 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Formatted one day. Now need to add some style and saving for other days
+
+**Things learned**: 
+- Getting more used to pug conditionals and iterations
 
 ### Day 38: October 15 2021
 ##### Project 3: Surf Forecast Data Scraper
@@ -13,7 +22,7 @@ Started coding after a hard day's night, so I wasnt able to do anything. My head
 Formatting html output. Getting used to pug iterations and mixins
 
 **Things learned**: 
-- Pug interations
+- Pug iterations
 - Pug mixins
 
 ### Day 36: October 13 2021

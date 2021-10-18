@@ -1,6 +1,18 @@
-# 40/100 Days Of Code - Log
+# 41/100 Days Of Code - Log
 
-### Day 40: October 16 2021
+### Day 41: October 18 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Today I was thinking and planning what should I do next. 
+I have plans of making the app universal, so you can input surf spot name and get a report on chosen day, or forecast for future days. 
+So I was looking at my code and thinking, if I had these plans beforehand, I would have written a function with parameters for getting urls, but instead I started with just an idea and started writing code just for one surf spot. So now I wanna wewrite everything. 
+
+**Things learned**: 
+- Before making app, plan what you want it to be beforehand, with all the functionality. It will make writing code easily. 
+- Now I can understand, why all the apps are constantly updating. Just by looking at your code you are getting some ideas, not only about how to make your code better and more effecient, but also about what new features you could implement.
+
+### Day 40: October 17 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 

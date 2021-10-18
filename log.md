@@ -1,4 +1,13 @@
-# 39/100 Days Of Code - Log
+# 40/100 Days Of Code - Log
+
+### Day 40: October 16 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Styles day. Made tables look a bit better
+
+**Things learned**: 
+- :not selector
 
 ### Day 39: October 16 2021
 ##### Project 3: Surf Forecast Data Scraper

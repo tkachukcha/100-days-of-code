@@ -6,7 +6,7 @@
 **Today's Progress**: 
 Today I was thinking and planning what should I do next. 
 I have plans of making the app universal, so you can input surf spot name and get a report on chosen day, or forecast for future days. 
-So I was looking at my code and thinking, if I had these plans beforehand, I would have written a function with parameters for getting urls, but instead I started with just an idea and started writing code just for one surf spot. So now I wanna wewrite everything. 
+So I was looking at my code and thinking, if I had these plans beforehand, I would have written a function with parameters for getting urls, but instead I started with just an idea and started writing code just for one surf spot. So now I wanna rewrite everything. 
 
 **Things learned**: 
 - Before making app, plan what you want it to be beforehand, with all the functionality. It will make writing code easily. 

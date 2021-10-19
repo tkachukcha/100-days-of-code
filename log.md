@@ -1,4 +1,13 @@
-# 41/100 Days Of Code - Log
+# 42/100 Days Of Code - Log
+
+### Day 42: October 19 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Today I was not much coding but planning, what I want from my app. And it looks like that it's gonna be app that gathers statistics of forecasts for previous days 
+
+**Things learned**: 
+- How to plan an app
 
 ### Day 41: October 18 2021
 ##### Project 3: Surf Forecast Data Scraper

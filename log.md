@@ -1,4 +1,19 @@
-# 42/100 Days Of Code - Log
+# 44/100 Days Of Code - Log
+
+### Day 44: October 21 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Started Node.JS and Mongo tutorial and continued rewriting scraping function. Made automatical creation of tides array (before it was manually written). This took me 40 minutes to solve!!!
+
+**Things learned**: 
+- Using two variables in for loop
+
+### Day 43: October 20 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Started rewriting function that gets data to be universal for any surf spot
 
 ### Day 42: October 19 2021
 ##### Project 3: Surf Forecast Data Scraper

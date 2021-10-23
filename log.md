@@ -1,4 +1,10 @@
-# 44/100 Days Of Code - Log
+# 45/100 Days Of Code - Log
+
+### Day 45: October 23 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Rewriting continued, was able to shorten data extraction code from one of the site from 160 to 110 lines and made it much more readable. Love, when code is clean!
 
 ### Day 44: October 21 2021
 ##### Project 3: Surf Forecast Data Scraper

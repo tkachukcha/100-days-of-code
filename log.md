@@ -1,4 +1,10 @@
-# 45/100 Days Of Code - Log
+# 46/100 Days Of Code - Log
+
+### Day 46: October 25 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Rewriting continued, puppeteer working a bit different than cheerio, so now Im trying to figure out how to split string with array to an actual array...
 
 ### Day 45: October 23 2021
 ##### Project 3: Surf Forecast Data Scraper

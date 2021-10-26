@@ -1,4 +1,10 @@
-# 46/100 Days Of Code - Log
+# 47/100 Days Of Code - Log
+
+### Day 47: October 26 2021
+##### Project 4: SurfSkate size calculator
+
+**Today's Progress**: 
+Today was doing small side project for my job. Calculator of surfskate sizes depending on heigth and weight of skater. it's made with two type="range" inputs, you select both parameters and  after submit you get size suggestions. Pretty easy. Now need to add images and style and deploy it. 
 
 ### Day 46: October 25 2021
 ##### Project 3: Surf Forecast Data Scraper

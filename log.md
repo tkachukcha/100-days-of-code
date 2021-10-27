@@ -1,4 +1,10 @@
-# 47/100 Days Of Code - Log
+# 48/100 Days Of Code - Log
+
+### Day 48: October 27 2021
+##### Project 4: SurfSkate size calculator
+
+**Today's Progress**: 
+Was busy almost all day, therefore coded for only 30 minutes.
 
 ### Day 47: October 26 2021
 ##### Project 4: SurfSkate size calculator

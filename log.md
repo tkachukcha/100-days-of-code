@@ -1,4 +1,10 @@
-# 48/100 Days Of Code - Log
+# 51/100 Days Of Code - Log
+
+### Day 49-50-51: October 28-29-30 2021
+##### Project 4: SurfSkate size calculator
+
+**Today's Progress**: 
+Almost finished SurfSkate size calculator, there are only some minor improvements left. But main logic is done. 
 
 ### Day 48: October 27 2021
 ##### Project 4: SurfSkate size calculator

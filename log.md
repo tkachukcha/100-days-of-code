@@ -1,6 +1,18 @@
-# 51/100 Days Of Code - Log
+# 54/100 Days Of Code - Log
 
-### Day 49-50-51: October 28-29-30 2021
+### Day 54: November 14 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Refactored main function little bit. Added conversion of all upper case string to lowercase with first capital letter. Finish of the project is coming soon!
+
+### Day 53: November 13 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Came back to challenge after 2 weeks pause. Finished rewriting main function.
+
+### Day 49-50-51-52: October 28-29-30-31 2021
 ##### Project 4: SurfSkate size calculator
 
 **Today's Progress**: 

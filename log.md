@@ -1,4 +1,11 @@
-# 54/100 Days Of Code - Log
+# 55/100 Days Of Code - Log
+
+### Day 55: November 15 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Now html works with new scraping function. Now i gotta figure out MongoDB to use it on server with my project.
+Also code went from 2 files with 310 + 80 lines to one file with 270 lines. Making it shorter and shorter!
 
 ### Day 54: November 14 2021
 ##### Project 3: Surf Forecast Data Scraper

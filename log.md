@@ -1,19 +1,27 @@
 # 55/100 Days Of Code - Log
 
-### Day 55: November 15 2021
+### Day 56: November 15 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+Added an array of arrays with urls needed to parse, and now my function gets an array as a parameter. Also started thinking about DB structure and made a MongoDB cluster. But it looks so complicated to me, I guess I need to do a tutorial about Mongo to start using it. 
+
+**Thoughts**: It feels little bit owerwhelming when I'm thinking what this project is going to be. 
+
+### Day 55: November 14 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 
 Now html works with new scraping function. Now i gotta figure out MongoDB to use it on server with my project.
 Also code went from 2 files with 310 + 80 lines to one file with 270 lines. Making it shorter and shorter!
 
-### Day 54: November 14 2021
+### Day 54: November 13 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 
 Refactored main function little bit. Added conversion of all upper case string to lowercase with first capital letter. Finish of the project is coming soon!
 
-### Day 53: November 13 2021
+### Day 53: November 12 2021
 ##### Project 3: Surf Forecast Data Scraper
 
 **Today's Progress**: 

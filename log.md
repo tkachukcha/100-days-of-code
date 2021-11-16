@@ -1,4 +1,10 @@
-# 56/100 Days Of Code - Log
+# 57/100 Days Of Code - Log
+
+### Day 57: November 16 2021
+##### Project 3: Surf Forecast Data Scraper
+
+**Today's Progress**: 
+PLanned the project and understood that the only way to move forward is to learn nodejs and mongodb, so I started doing tutorials.  
 
 ### Day 56: November 15 2021
 ##### Project 3: Surf Forecast Data Scraper

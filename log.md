@@ -1,10 +1,16 @@
-# 59/100 Days Of Code - Log
+# 60/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
 2. JS Clock || 11 hours Total
 3. Surf Forecast Scraper || 38 hours so far
 4. Habit Tracker || 
+
+### Day 60: November 19 2021
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Done few nodejs tutorial and wanted to install mongodb to my localhost, but failed with weird error no one in whole internet able to resolve. Gonna try tomorrow again. 
 
 ### Day 59: November 18 2021
 ##### Project 4: Habit tracker

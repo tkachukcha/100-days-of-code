@@ -1,10 +1,30 @@
-# 60/100 Days Of Code - Log
+# 63/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
 2. JS Clock || 11 hours Total
 3. Surf Forecast Scraper || 38 hours so far
 4. Habit Tracker || 
+5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
+
+
+### Day 63: November 27 2021
+##### Project 5: Right click menu
+
+**Today's Progress**: 
+Came back to Surf Scraper. Started project almost from scratch, now I'm gonna use a webpack and use module system to compile my project. Decided to comeback to markdown output which Im started from. Bit bored by this project because to truly continue it I have to learn how to use node and mongo first, and because of all the tutorials and time I need to commit to learn them, I'm actually not working on this project. So I will finish first version and start another project, and will come back to improve functionality of this one later.
+
+### Day 61-62: November 27-28 2021
+##### Project 5: Right click menu
+
+**Today's Progress**: 
+So, I've been out for quite a few days, it's hard to comeback to streak... 
+
+Anyway, I've participated in a Hackaton during JS course I'm learning at the moment. 
+We were working as a team of 6 on a project of right click context menu with some various functions. It was a true hackaton, I've spent 16 hours of 48 hours coding. And also I was a team lead, so i had to do so much more than the others. 
+During this event I've learned a lot new things about working in a team and using git with github to cooperate. Learned hard way about merging multiple branches, creating and accepting pull request and so on.
+
+This was truly great experience.
 
 ### Day 60: November 19 2021
 ##### Project 3: Surf Forecast Scraper

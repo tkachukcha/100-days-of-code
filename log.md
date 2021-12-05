@@ -13,6 +13,9 @@ Projects:
 **Today's Progress**: 
 Decomposed main function back to separate modules. Remember structure of my app. Now will add more functionality as I need not only forecast for tomorrow, but also for coming week too. 
 
+**Today's thoughts**:
+It's hard to come back to older code after pause. Gotta spend some time to remember what is what and who is who. 
+
 ### Day 63: November 27 2021
 ##### Project 3: Surf Forecast Scraper
 

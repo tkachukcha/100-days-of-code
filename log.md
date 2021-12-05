@@ -1,4 +1,4 @@
-# 63/100 Days Of Code - Log
+# 64/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,9 +7,14 @@ Projects:
 4. Habit Tracker || 
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 
+### Day 64: December 5 2021
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Decomposed main function back to separate modules. Remember structure of my app. Now will add more functionality as I need not only forecast for tomorrow, but also for coming week too. 
 
 ### Day 63: November 27 2021
-##### Project 5: Right click menu
+##### Project 3: Surf Forecast Scraper
 
 **Today's Progress**: 
 Came back to Surf Scraper. Started project almost from scratch, now I'm gonna use a webpack and use module system to compile my project. Decided to comeback to markdown output which Im started from. Bit bored by this project because to truly continue it I have to learn how to use node and mongo first, and because of all the tutorials and time I need to commit to learn them, I'm actually not working on this project. So I will finish first version and start another project, and will come back to improve functionality of this one later.

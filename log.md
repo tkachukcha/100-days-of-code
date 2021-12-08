@@ -1,4 +1,4 @@
-# 66/100 Days Of Code - Log
+# 67/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -6,6 +6,12 @@ Projects:
 3. Surf Forecast Scraper || 38 hours so far
 4. Habit Tracker || 
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
+
+### Day 67: December 8 2021
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+At last I went away from dead point and started doing something new. Rewriting functions to get forecast not just for tomorrow, but for other days too (no more than 7 days though). Now stuck on how to push parameter value inside of puppeteer's function page.evaluate
 
 ### Day 66: December 7 2021
 ##### Project 3: Surf Forecast Scraper

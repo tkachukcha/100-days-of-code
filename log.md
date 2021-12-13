@@ -1,4 +1,4 @@
-# 70/100 Days Of Code - Log
+# 71/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -6,6 +6,12 @@ Projects:
 3. Surf Forecast Scraper || 38 hours so far
 4. Habit Tracker || 
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
+
+### Day 71: December 13 2021
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Tuned second scraping function to get data depending on days requested. 
 
 ### Day 70: December 12 2021
 ##### Project 3: Surf Forecast Scraper

@@ -7,7 +7,7 @@ Projects:
 4. Habit Tracker || 
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 
-### Day 72: December 13 2021
+### Day 72: December 14 2021
 ##### Project 3: Surf Forecast Scraper
 
 **Today's Progress**: 

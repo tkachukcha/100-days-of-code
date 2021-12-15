@@ -1,4 +1,4 @@
-# 72/100 Days Of Code - Log
+# 73/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,12 +7,22 @@ Projects:
 4. Habit Tracker || 
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 
+### Day 73: December 14 2021
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Finished second website scraping function. Feels good! Off to third and last one. 
+
+**Today's thoughts**: 
+Almost 8 hours of coding, but it still feels not enough. 
+
 ### Day 72: December 14 2021
 ##### Project 3: Surf Forecast Scraper
 
 **Today's Progress**: 
 Worked little bit more to get forecast for requested days number. Found little bug, but at 1am my brain is too slow to solve it.
 
+**Today's thoughts**: 
 Struggling to keep focused. Recently found out that I'm way too distracted and therefore not productive/effective as I could be. Gotta be more focused!
 
 ### Day 71: December 13 2021

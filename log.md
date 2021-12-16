@@ -13,9 +13,6 @@ Projects:
 **Today's Progress**: 
 Done a bit of refactoring. Changing the way Im getting number of columns I need to parse. 
 
-**Today's thoughts**: 
-Why am I'm productive only at night?
-
 ### Day 73: December 15 2021
 ##### Project 3: Surf Forecast Scraper
 

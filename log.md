@@ -1,11 +1,18 @@
-# 78/100 Days Of Code - Log
+# 79/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
 2. JS Clock || 11 hours Total
 3. Surf Forecast Scraper || 38 hours so far
-4. Habit Tracker || 
+4. Mood/Energy/Working hours Tracker
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
+6. Habit Tracker
+
+### Day 79: December 23 2021
+##### Project 4: Mood Tracker
+
+**Today's Progress**: 
+Decided to rest a bit from scraper project and made a simple mood/energy/workingHours tracker app on react with recharts and tailwind. I couldnt even think that it would be so fast and easy and working out of the box. Spent 10 minutes installing and configuring and rest time spent filling data and playing around. 
 
 ### Day 78: December 22 2021
 ##### Project 3: Surf Forecast Scraper

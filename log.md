@@ -1,4 +1,4 @@
-# 80/100 Days Of Code - Log
+# 81/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total

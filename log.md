@@ -8,6 +8,12 @@ Projects:
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 6. Habit Tracker
 
+### Day 81: December 25 2021
+##### Project 4: Mood Tracker
+
+**Today's Progress**: 
+Trying to figure out how to work with forms in React. Unsuccessful for now. 
+
 ### Day 80: December 24 2021
 ##### Project 4: Mood Tracker
 

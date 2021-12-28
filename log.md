@@ -1,4 +1,4 @@
-# 83/100 Days Of Code - Log
+# 84/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,6 +7,12 @@ Projects:
 4. Mood/Energy/Working hours Tracker
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 6. Habit Tracker
+
+### Day 84: December 28 2021
+##### Project 4: Mood Tracker
+
+**Today's Progress**: 
+At last tailwind is working! Styled few components, added few additional input components. 
 
 ### Day 82-83: December 26-27 2021
 ##### Project 4: Mood Tracker

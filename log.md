@@ -1,4 +1,4 @@
-# 84/100 Days Of Code - Log
+# 85/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,6 +7,12 @@ Projects:
 4. Mood/Energy/Working hours Tracker
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 6. Habit Tracker
+
+### Day 85: December 29 2021
+##### Project 4: Mood Tracker
+
+**Today's Progress**: 
+Thanks to @TheSaigonBabe and her advice about Formik, I've made what I wished to do with my mood tracker. Now I have form where on Submit my chart rerenders with new data for another day! Solved "mystery" of state not renewing and it feels so great when everything is working as intended and you understand new important thing about learned subject. Now I need to add form validation and backend to store data in a separate file.
 
 ### Day 84: December 28 2021
 ##### Project 4: Mood Tracker

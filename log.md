@@ -1,4 +1,4 @@
-# 88/100 Days Of Code - Log
+# 89/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,6 +7,12 @@ Projects:
 4. Mood/Energy/Working hours Tracker
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 6. Habit Tracker
+
+### Day 89: January 3 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Still rewriting third website scraper function to get data on requested number of days. Trying various ways to achieve that
 
 ### Day 88: January 2 2022
 ##### Project 3: Surf Forecast Scraper

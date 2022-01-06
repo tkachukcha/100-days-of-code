@@ -1,4 +1,4 @@
-# 91/100 Days Of Code - Log
+# 92/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours 13 minutes Total
@@ -7,6 +7,12 @@ Projects:
 4. Mood/Energy/Working hours Tracker
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course
 6. Habit Tracker
+
+## Day 92: January 6 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Been trying to make all the 3 functions work together. Almost done it, but today internet connection is way too slow and instead of waiting for data to fetch for 10 seconds, I had to wait sometimes for 2 minutes. Therefore making debugging real pain. Waiting for connection to become fast again... 
 
 ### Day 91: January 5 2022
 ##### Project 3: Surf Forecast Scraper

@@ -1,14 +1,21 @@
-# 92/100 Days Of Code - Log
+# 93/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
 2. JS Clock || 11 hours
-3. Surf Forecast Scraper || 55 hours so far
+3. Surf Forecast Scraper || 57 hours so far
 4. Mood/Energy/Working hours Tracker || 5 hours
 5. Right click menu with various functions // Hackaton @ Vladilen Minin JS Course || 14 hours
 6. Habit Tracker || 1 hours so far
 
-Total 98 hours
+Total 100 hours
+
+## Day 93: January 7 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+The main scraping function is done. Refactored it so the puppeteer opens browser window only once. And now it outputs json file with nicely organized data.
+At last I feel satisfied. Spent 57 hours so far. There's still plenty things to improve. Also need proper FrontEnd and implement DB, but this I will add later. 
 
 ## Day 92: January 6 2022
 ##### Project 3: Surf Forecast Scraper

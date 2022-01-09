@@ -1,4 +1,4 @@
-# 94/100 Days Of Code - Log
+# 95/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
@@ -9,6 +9,15 @@ Projects:
 6. Habit Tracker || 1 hours so far
 
 Total 100 hours (7th Jan)
+
+## Day 95: January 9 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Started frontend for my Surf Scraper in ReactJS. Didn't notice how 3 hours past! React is so fun!
+
+For now started making draft for rendering data, added optional rendering (if button is pushed component is rendered)
+
 
 ## Day 94: January 8 2022
 ##### Project 3: Surf Forecast Scraper

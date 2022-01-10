@@ -1,4 +1,4 @@
-# 95/100 Days Of Code - Log
+# 96/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
@@ -9,6 +9,13 @@ Projects:
 6. Habit Tracker || 1 hours so far
 
 Total 100 hours (7th Jan)
+
+## Day 96: January 10 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Done bit of refactoring, added new Forecast, Tides and Options components. Via options I can now switch off tides tables
+
 
 ## Day 95: January 9 2022
 ##### Project 3: Surf Forecast Scraper

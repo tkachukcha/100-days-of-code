@@ -1,4 +1,4 @@
-# 96/100 Days Of Code - Log
+# 97/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
@@ -9,6 +9,13 @@ Projects:
 6. Habit Tracker || 1 hours so far
 
 Total 100 hours (7th Jan)
+
+## Day 97: January 11 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Added component for each website's data object. Added options to Options component to render those components or not. Started rendering swell tables from first website data. Trying to figure out to show data in columns, not in rows. Looks like I would need to make few nested loops in order to do that.
+
 
 ## Day 96: January 10 2022
 ##### Project 3: Surf Forecast Scraper

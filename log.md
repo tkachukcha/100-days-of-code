@@ -1,4 +1,4 @@
-# 97/100 Days Of Code - Log
+# 98/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
@@ -9,6 +9,12 @@ Projects:
 6. Habit Tracker || 1 hours so far
 
 Total 100 hours (7th Jan)
+
+## Day 98: January 12 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Found a "key" bug in Swell component and was to trying to get rid of it. Done! As always, the problem was in syntax
 
 ## Day 97: January 11 2022
 ##### Project 3: Surf Forecast Scraper

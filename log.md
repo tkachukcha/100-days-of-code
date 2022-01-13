@@ -1,4 +1,4 @@
-# 98/100 Days Of Code - Log
+# 99/100 Days Of Code - Log
 
 Projects: 
 1. Rock Scissors Paper Lizard Spock Game || 13 hours
@@ -9,6 +9,15 @@ Projects:
 6. Habit Tracker || 1 hours so far
 
 Total 100 hours (7th Jan)
+
+## Day 99: January 12 2022
+##### Project 3: Surf Forecast Scraper
+
+**Today's Progress**: 
+Started rendering MSW swell table. 
+
+The day before the last day of challenge. Ooooof. 
+
 
 ## Day 98: January 12 2022
 ##### Project 3: Surf Forecast Scraper
